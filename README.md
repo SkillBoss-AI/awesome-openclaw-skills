@@ -565,6 +565,7 @@
 | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content wri... | 607 |
 | [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) | Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, an... | 591 |
 | [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) | Turn any workflow into reusable AI agent skills that install on 14+ tools — Claude Code, Copilot, Cu... | 590 |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes. | 189 |
 | [/analyze-issue](https://github.com/jerseycheese/Narraitor) | Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requir... | - |
 | [/commit](https://github.com/evmts/tevm-monorepo) | Creates git commits using conventional commit format with appropriate emojis, following project stan... | - |
 | [/create-pull-request](https://github.com/liam-hq/liam) | Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following ... | - |
